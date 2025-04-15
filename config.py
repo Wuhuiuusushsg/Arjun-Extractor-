@@ -2,9 +2,9 @@ import os
 
 class Config(object):
     BOT_TOKEN = ""
-    API_ID = 22080412
-    API_HASH = "17a5b12bb9261b0250d31bbef9c5227f"
-    ADMIN = '7587316405'.split(',')
+    API_ID = 20054245
+    API_HASH = "431f22f320ed5d69225d3b3fc253fc0d"
+    ADMIN = '5034929962'.split(',')
     ADMIN_ID = [int(id) for id in ADMIN]
     DB_URL = "mongodb+srv://neoayush444:3kuwGf9jKicbDxvT@cluster0.f9vq7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     DB_NAME = "Crack_Jack"
